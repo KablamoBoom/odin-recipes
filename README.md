@@ -1,2 +1,2 @@
 # odin-recipes
-This repository is definitely about things!
+A lovely compilation of simple lunches from many places.
